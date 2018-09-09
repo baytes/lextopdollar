@@ -1,0 +1,15 @@
+User-Agent: *
+Allow: /?display=wide
+Allow: /wp-content/uploads/
+Disallow: /wp-admin/
+Disallow: /wp-content/plugins/
+Disallow: /readme.html
+Disallow: /refer/
+
+Sitemap: http://www.lextopdollar.com/store/index.php?xml_sitemap=params=
+Sitemap: http://www.lextopdollar.com/store/index.php?xml_sitemap=params=misc
+Sitemap: http://www.lextopdollar.com/store/index.php?xml_sitemap=params=tax-product_cat
+Sitemap: http://www.lextopdollar.com/store/index.php?xml_sitemap=params=tax-product_tag
+Sitemap: http://www.lextopdollar.com/store/index.php?xml_sitemap=params=externals
+Sitemap: http://www.lextopdollar.com/store/index.php?xml_sitemap=params=pt-product-2016-03
+Sitemap: http://www.lextopdollar.com/store/index.php?xml_sitemap=params=pt-page-2016-03
